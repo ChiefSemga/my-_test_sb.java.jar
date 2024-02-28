@@ -54,4 +54,4 @@ Contact
 Name : Chief Semga  
 Email:  asn@semgasolutions.com
 
-Project Link: https://github.com/your_username/ss_standalone_jar
+Project Link: https://github.com/chiefsemga/ss_standalone_jar
