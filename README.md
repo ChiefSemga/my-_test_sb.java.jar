@@ -14,8 +14,8 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repository
-   ```sh
-   git clone https://github.com/your_username/ss_standalone_jar.git
+
+   https://github.com/ChiefSemga/semga_standalone_java.jar.git
 
 # Change directory to the project root
 
@@ -54,4 +54,4 @@ Contact
 Name : Chief Semga  
 Email:  asn@semgasolutions.com
 
-Project Link: https://github.com/chiefsemga/ss_standalone_jar
+Project Link: https://github.com/ChiefSemga/semga_standalone_java.jar.git
