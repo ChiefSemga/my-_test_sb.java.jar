@@ -50,8 +50,10 @@ Contributions are what make the open-source community such an amazing place to l
 # License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
-Name : Chief Semga  
+Contact:
+
+Name : Chief Semga 
+
 Email:  asn@semgasolutions.com
 
 Project Link: https://github.com/ChiefSemga/semga_standalone_java.jar.git
